@@ -22380,6 +22380,10 @@ video {
           animation: bounce 1s infinite;
 }
 
+hr {
+  border-width: 3px;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
